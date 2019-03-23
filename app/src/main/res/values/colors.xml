@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The color of the toolBar-->
+    <color name="colorPrimary">#008577</color>
+    <!-- The color of the status Bar-->
+    <color name="colorPrimaryDark">#00574B</color>
+    <!-- The default color the is provided to the widgets-->
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="grey">#bfbfbf</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#3366ff</color>
+
+    <color name="textColor">#FFFFFF</color>
+
+    <color name="state_unknown">#78909C</color>
+    <color name="state_connected">#0097A7</color>
+
+    <color name="log_verbose">#FFFFFF</color>
+    <color name="log_debug">#EEEEEE</color>
+    <color name="log_warning">#E57373</color>
+    <color name="log_error">#F44336</color>
+
+
+    <color name="state_discovering">#2196F3</color>
+    <color name="state_advertising">#EF5350</color>
+
+</resources>
